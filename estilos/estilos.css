@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+
+.pestañas{
+    background-color: white;
+}
+
+.pestaña__txt{
+    font-family: "Open Sans";
+    font-weight: bold;
+    text-align: center;
+}
+
+#sonrisasLimpias {
+    width: 100%;
+    margin: 0;
+} 
